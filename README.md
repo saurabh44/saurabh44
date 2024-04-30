@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Front-End Developer**
 
-- 💬 Ask me about **Java,Html,CSS,JavaScript,React**
+- 💬 Ask me about **Java, HTML, CSS, Tailwind, JavaScript, React.JS**
 
 - 📫 How to reach me **sourabh.singh4567@gmail.com**
 
